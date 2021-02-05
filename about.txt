@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About</title>
+</head>
+<body>
+
+<h2>Jack Black Biography Page 2</h2>
+<h3>Early Life</h3>
+<p>Thomas Jacob Black was born on August 28, 1969, in Santa Monica, California, the son of two satellite engineers, Judith Love (née Cohen), who worked on the Hubble Space Telescope and is also a writer, and Thomas William Black. His mother was born Jewish, and his father converted to Judaism. Black was raised in the Jewish faith, attending Hebrew school and celebrating a Bar Mitzvah. On a guest appearance on The Tonight Show with Jay Leno, he said his surname may have come from the occupational name of blacksmith.</p>
+<p>Black's parents divorced when he was 10; Black moved to Culver City with his father and frequently visited his mother's home. As a child, Black appeared in a commercial for the Activision game Pitfall! in 1982. This was shown during his later appearances as an adult actor on Jimmy Kimmel Live! and again on The Tonight Show with Conan O'Brien.</p>
+<p>For high school, Black's parents enrolled him at the Poseidon School, a private secondary school designed specifically for students struggling in the traditional school system. Black also attended the Crossroads School, where he excelled in drama. He later attended UCLA[11] but dropped out during his sophomore year to pursue a career in entertainment. Fellow UCLA student Tim Robbins later cast Black in Bob Roberts. Black gained recurring roles on the HBO sketch comedy series, Mr. Show.</p>
+
+
+</body>
+</html>

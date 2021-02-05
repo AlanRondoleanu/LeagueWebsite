@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Index</title>
+</head>
+<body>
+
+<h1>Jack Black Biography Page 1</h1>
+<p>Thomas Jacob "Jack" Black (born August 28, 1969) is an American actor, comedian, singer, and producer.
+His acting career has been extensive, starring primarily in comedy films. He is known for his roles in High Fidelity, Shallow Hal, School of Rock, King Kong, Nacho Libre, Tropic Thunder, The Holiday, Goosebumps, Bernie and the Kung Fu Panda films. Black is considered a member of the so-called Frat Pack, a loose grouping of comic actors who have appeared together from an early age in various Hollywood films. He has been nominated for two Golden Globe Awards. Black is the lead vocalist of the comedic rock group Tenacious D, which he formed in 1994 with friend Kyle Gass.</p>
+<img src="http://spinoff.comicbookresources.com/wp-content/uploads/2013/09/jack_black.jpg" width="300" height="200">
+<p>He is a beloved actor and musician by many teenagers and adults alike for staring in such memorable films such as The Pick of Destiny. His movies and music sparked a love for music and desire to learn the guitar for many people. Tribute or Kickapoo being the first songs a guitarist knows.</p> 
+<img src="https://fanart.tv/fanart/movies/2179/moviebackground/tenacious-d-in-the-pick-of-destiny-5052c2637c4e6.jpg" width="350" height="200">
+<p>Nowadays Jack Black stars in more movies and has given up making music as he used to, but on the rare occasion he calls up Kyle Gass and makes a small song for his fans to enjoy.</p>
+<img src="http://thumbs2.ebaystatic.com/d/l225/m/mPO2RtXC9rmO_HrbpMc8g3Q.jpg" width="85" height="75">
+</body>
+</html> 

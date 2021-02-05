@@ -1,0 +1,154 @@
+body {
+	background-image: url('greenforest.jpg');
+	background-attachment: fixed;
+}
+* {
+  box-sizing: border-box;
+}
+#main {
+	width: 1200px;
+	height: 2000px;
+	margin: auto;
+}
+#master{
+	height: 100%;
+}
+#header {
+    background-color:transparent;
+    text-align:center;
+	height:150px;
+	padding-top: 0px;
+}
+
+#container {
+	height:50px;
+	padding-top: 6px;
+	padding-right: 90px;
+    background-color:black;
+    text-align:center;
+	border:5px double gold;
+}
+#container a {
+	padding: 5px;
+	color: #ffffff;
+	float: middle;
+	font-size: 25px;
+	cursor: pointer;
+	text-decoration: none;
+}
+a:hover, a:active, a:focus{
+	background-color: rgb(128, 128, 128);
+}
+p#containerOptions{
+	color: black;
+	font-size: 20px;
+}
+#sides {
+	background-image:url('texture.jpg');
+    float:left;
+	width: 20%;
+	height: 100%;
+    padding:2px;
+}
+#middle {
+	background-color:grey;
+	
+    float:left;
+	width: 60%;
+	padding: 20px;
+	
+	border-width:5px;
+	border-color: gold;
+	border-style: none double;
+}
+#video{
+	margin-left: 120px;
+}
+h1{
+	text-align: center;
+	border-bottom: 1px solid gold;
+	color:white;
+}
+p, li{
+	color:white;
+}
+.questiontext {
+	background-color: #595959;
+	padding: 5px;
+	border: 1px solid black;
+}
+.header {
+	border-bottom: 1px solid gold;
+	color:white;
+	font-size: 19px;
+}
+.timestamp{
+	color:black;
+	font-size: 14px;
+	float: right;
+	margin-top: -10px;
+}
+.monstername{
+	color:gold;
+	font-size: 25px;
+	border-bottom: 1px solid gold;
+}
+.monsterinfo{
+	color:#fffdba;
+}
+ul .a:hover, ul .a:active, ul .a:focus{
+	background-color: rgb(128, 128, 128);
+}
+#viego{
+	color: #00eb81;
+	font-weight: bold;
+}
+#logo {
+	margin-left: -210px;
+	float: left;
+	position: absolute;
+}
+#title{
+	margin-top: -20px;
+}
+	
+.monsterimage {
+	margin-top: -15px;
+}
+.innerimage {
+	margin-left: 30px;
+}
+
+.champion {
+	background-color: #595959;
+	padding: 15px;
+	border: 1px solid gold;
+	margin-top: 30px;
+}
+.champion IMG{
+	float: left;
+}
+.champion .name {
+	color:gold;
+	font-size: 35px;
+	padding-left: 20px;
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 0;
+}
+.champion .description{
+	font-style: italic;
+	margin-left: 110px;
+	margin-top: 0px;
+}
+.champion .abillity{
+	font-weight:bold;
+	color:gold;
+}
+.champion .abillitydescription{
+	font-size: 13px;
+}
+.champion span{
+	color: #fffdba;
+}
+
