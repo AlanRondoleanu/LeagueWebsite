@@ -1,13 +1,15 @@
 body {
 	background-image: url('greenforest.jpg');
 	background-attachment: fixed;
+	margin-bottom: 0px;
+	font-family:Oxygen;
 }
 * {
   box-sizing: border-box;
 }
 #main {
 	width: 1200px;
-	height: 2000px;
+	height: auto;
 	margin: auto;
 }
 #master{
@@ -27,9 +29,14 @@ body {
     background-color:black;
     text-align:center;
 	border:5px double gold;
+	border-radius: 10px 10px 0px 0px;
 }
 #container a {
-	padding: 5px;
+	padding-top: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	padding-right:4px;
+	
 	color: #ffffff;
 	float: middle;
 	font-size: 25px;
@@ -45,24 +52,23 @@ p#containerOptions{
 }
 #sides {
 	background-image:url('texture.jpg');
-    float:left;
-	width: 20%;
-	height: 100%;
-    padding:2px;
+ 
+	width: 100%;
+	padding-left: 225px;
+	padding-bottom: 70px;
+	border-style: none solid;
+	border-color: #545454;
 }
 #middle {
 	background-color:grey;
 	
-    float:left;
-	width: 60%;
+	width: 750px;
 	padding: 20px;
-	
+	padding-bottom: 50px;
+	border-radius: 0px 0px 8px 8px ;
 	border-width:5px;
 	border-color: gold;
-	border-style: none double;
-}
-#video{
-	margin-left: 120px;
+	border-style: none double double;
 }
 h1{
 	text-align: center;
@@ -88,16 +94,20 @@ p, li{
 	float: right;
 	margin-top: -10px;
 }
-.monstername{
-	color:gold;
-	font-size: 25px;
-	border-bottom: 1px solid gold;
+#monsterlist{
+	background-color:#595959;
+	border: 1px solid black;
+	padding: 5px;
+	padding-left: 45px;
 }
-.monsterinfo{
+li a {
 	color:#fffdba;
+	text-decoration: none;
 }
-ul .a:hover, ul .a:active, ul .a:focus{
-	background-color: rgb(128, 128, 128);
+li a:hover,li a:active,li a:focus{
+	
+	background-color: #adadad;
+	text-decoration: none;
 }
 #viego{
 	color: #00eb81;
@@ -111,9 +121,18 @@ ul .a:hover, ul .a:active, ul .a:focus{
 #title{
 	margin-top: -20px;
 }
-	
+.monstername{
+	color:gold;
+	font-size: 25px;
+	border-bottom: 1px solid gold;
+	border-top: 1px solid gold;
+}
+.monsterinfo{
+	color:#fffdba;
+}
 .monsterimage {
 	margin-top: -15px;
+	border-radius: 8px;
 }
 .innerimage {
 	margin-left: 30px;
@@ -122,14 +141,15 @@ ul .a:hover, ul .a:active, ul .a:focus{
 .champion {
 	background-color: #595959;
 	padding: 15px;
-	border: 1px solid gold;
+	border: 1px solid silver;
 	margin-top: 30px;
 }
 .champion IMG{
 	float: left;
+	border-radius: 8px;
 }
 .champion .name {
-	color:gold;
+	color:white;
 	font-size: 35px;
 	padding-left: 20px;
 	float: left;
@@ -142,8 +162,7 @@ ul .a:hover, ul .a:active, ul .a:focus{
 	margin-top: 0px;
 }
 .champion .abillity{
-	font-weight:bold;
-	color:gold;
+	color:yellow;
 }
 .champion .abillitydescription{
 	font-size: 13px;
@@ -151,4 +170,3 @@ ul .a:hover, ul .a:active, ul .a:focus{
 .champion span{
 	color: #fffdba;
 }
-
