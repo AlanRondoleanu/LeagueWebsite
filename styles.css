@@ -4,6 +4,8 @@ body {
 	margin-bottom: 0px;
 	font-family:Oxygen;
 	background-color: black;
+	width: auto;
+	height: auto;
 }
 * {
   box-sizing: border-box;
