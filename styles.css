@@ -105,6 +105,7 @@ h1{
 	text-align: center;
 	border-bottom: 1px solid gold;
 	color:gold;
+	-webkit-text-stroke: 0.2px black;
 }
 p, li{
 	color:white;
