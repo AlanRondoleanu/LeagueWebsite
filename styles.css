@@ -3,6 +3,7 @@ body {
 	background-attachment: fixed;
 	margin-bottom: 0px;
 	font-family:Oxygen;
+	background-color: black;
 }
 * {
   box-sizing: border-box;
