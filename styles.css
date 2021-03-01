@@ -143,6 +143,14 @@ li a:hover,li a:active,li a:focus{
 	background-color: #adadad;
 	text-decoration: none;
 }
+#facebook:hover, #facebook:active, #facebook:focus{
+	background-color: #adadad;
+	text-decoration: none;
+}
+#twitter:hover, #twitter:active, #twitter:focus{
+	background-color: #adadad;
+	text-decoration: none;
+}
 #viego{
 	color: #00eb81;
 	font-weight: bold;
