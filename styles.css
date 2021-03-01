@@ -218,6 +218,15 @@ li a:hover,li a:active,li a:focus{
 }
 #tiertable{
 	float: left;
+	background-color: #3B3B3B;
+	padding: 5px;
+	border: 1px solid black;
+	margin-right: 40px;
+}
+#tiertablelast{
+	background-color: #3B3B3B;
+	padding: 5px;
+	border: 1px solid black;
 }
 table {
 	padding: 20px;
