@@ -113,7 +113,7 @@ p, li{
 	color:white;
 }
 .questiontext {
-	background-color: #595959;
+	background-color: #3B3B3B;
 	padding: 5px;
 	border: 1px solid black;
 }
@@ -123,7 +123,7 @@ p, li{
 	font-size: 19px;
 }
 .timestamp{
-	color:black;
+	color:yellow;
 	font-size: 14px;
 	float: right;
 	margin-top: -10px;
@@ -214,6 +214,21 @@ li a:hover,li a:active,li a:focus{
 table {
 	padding: 20px;
 }
+.name {
+	color: gold;
+}
+.hard {
+	color: #f5ab56;
+}
+.insane {
+	color: red;
+}
+.medium {
+	color: #c9fc6f;
+}
+.easy {
+	color: #65bdf7;
+}
 .super {
 	color: orange;
 	font-weight: bold;
@@ -224,6 +239,10 @@ table {
 }
 .belowaverage {
 	color: lightgreen;
+	font-weight: bold;
+}
+.link {
+	color: white;
 	font-weight: bold;
 }
 th {
